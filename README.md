@@ -22,7 +22,7 @@ Cybersecurity courses I recommand
 - [Blue Team Level 1](https://securityblue.team/why-btl1/) - Jr. Cybersecurity Analyst
 - [Blue Team Level 2](https://securityblue.team/courses/blue-team-level-2-certification-professional/) - Proffesional Analyst
 - [Effective Information Security Writing](https://www.networkdefense.io/library/effective-information-security-writing/55514/about/) - Learn how to write reports for red team and blue team
-- [Investigation Theory🔥](https://www.networkdefense.io/library/the-analyst-mindset/195109/about/) - the best course for Cybersecurity Analysts
+- [Investigation Theory](https://www.networkdefense.io/library/the-analyst-mindset/195109/about/) - 🔥 the best course for Cybersecurity Analysts
 - [Practical Threat Hunting](https://www.networkdefense.io/library/threat-hunters-playbook/87345/about/)
 - [TCM Security - Penetration testing courses](https://academy.tcm-sec.com/courses)
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
