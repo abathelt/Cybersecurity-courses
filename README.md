@@ -24,4 +24,5 @@ Cybersecurity courses I recommand
 - [Effective Information Security Writing](https://www.networkdefense.io/library/effective-information-security-writing/55514/about/) - Learn how to write reports for red team and blue team
 - [Investigation Theory](https://www.networkdefense.io/library/the-analyst-mindset/195109/about/)
 - [Practical Threat Hunting](https://www.networkdefense.io/library/threat-hunters-playbook/87345/about/)
-- [TCM SECURIRITY - PENETRATION TESTING COURSES](https://academy.tcm-sec.com/courses)
+- [TCM Security - Penetration testing courses](https://academy.tcm-sec.com/courses)
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
