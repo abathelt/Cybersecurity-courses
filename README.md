@@ -3,7 +3,7 @@ Cybersecurity courses I recommand
 
 
 ## Free courses
-- Zero to Hero](https://www.thecybermentor.com/zero-to-hero-pentesting)
+- [Zero to Hero](https://www.thecybermentor.com/zero-to-hero-pentesting)
 - [Free Code Camp](https://www.freecodecamp.org/learn) - Python, Data Analysis
 - [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNana)
 - [Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana)
