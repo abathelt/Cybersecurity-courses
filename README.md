@@ -2,6 +2,11 @@
 I heard so many times that the first thing you have to do as a beginner is to know how to use Google. This is half true. I agree with it because if you don’t have curiosity to search for things, and you want everyone to give you the answer for your problem, cybersecurity is not for you. However, if you are starting your cybersecurity journey, you might not know where to start and what to google. 
 I know how difficult it is to find valuable content on the Internet on your own. Therefore, below you will find places I have checked, where you can expand your knowledge with the certainty that you will not be misled.
 
+## How to start cybersecurity career
+- [How to Be an Ethical Hacker in 2021](https://www.youtube.com/watch?v=mdsChhW056A&ab_channel=TheCyberMentor)
+- [Your 5 Year Path: Success in Infosec](https://www.youtube.com/watch?v=Uv-AfK7PkxU&ab_channel=BlackHillsInformationSecurity)
+- [5 Year Plan into InfoSec Part 2](https://www.youtube.com/watch?v=iB_xCLsgQZI&ab_channel=BlackHillsInformationSecurity)
+
 ## Here are cybersecurity courses I recommand
 
 
