@@ -2,16 +2,16 @@
 I heard so many times that the first thing you have to do as a beginner is to know how to use Google. This is half true. I agree with it because if you don’t have curiosity to search for things, and you want everyone to give you the answer for your problem, cybersecurity is not for you. However, if you are starting your cybersecurity journey, you might not know where to start and what to google. 
 I know how difficult it is to find valuable content on the Internet on your own. Therefore, below you will find places I have checked, where you can expand your knowledge with the certainty that you will not be misled.
 
-Cybersecurity courses I recommand
+## Here are cybersecurity courses I recommand
 
 
-## Free courses
+### Free courses
 
-### Netowrking
+#### Netowrking
 - [Professor Messer’s CompTIA N10-008 Network+ Course](https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course)
 - [Networking Essentials by Cisco](https://www.netacad.com/courses/networking/networking-essentials)
 
-### Cybersecurity fundamentals
+#### Cybersecurity fundamentals
 - [Professor Messer’s SY0-601 CompTIA Security+ Course](https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/)
 - [INE Starter Pass](https://checkout.ine.com/starter-pass )
 - [Cybersecurity Essentials by Cisco](https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials)
@@ -25,7 +25,7 @@ Cybersecurity courses I recommand
 - [Learn Ethical Hacking From Scratch by zSecurity](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/) - This course on Udemy is sometimes free.
 - [Bugcrowd University](https://github.com/bugcrowd/bugcrowd_university)
 
-### Porgramming 
+#### Porgramming 
 - [Free Code Camp](https://www.freecodecamp.org/learn) - Python, Data Analysis
 - [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNana)
 - [Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana)
@@ -38,7 +38,7 @@ Cybersecurity courses I recommand
 - [Mobile hacking](https://www.hacker101.com/playlists/mobile_hacking)
 - [Cryptography](https://www.hacker101.com/playlists/cryptography)
 
-## Paid courses
+### Paid courses
 - [Blue Team Level 1](https://securityblue.team/why-btl1/) - Jr. Cybersecurity Analyst
 - [Blue Team Level 2](https://securityblue.team/courses/blue-team-level-2-certification-professional/) - Proffesional Analyst
 - [Effective Information Security Writing](https://www.networkdefense.io/library/effective-information-security-writing/55514/about/) - Learn how to write reports for red team and blue team
@@ -47,7 +47,7 @@ Cybersecurity courses I recommand
 - [TCM Security - Penetration testing courses](https://academy.tcm-sec.com/courses)
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 
-## Books
+### Books
 - Penetration Testing: A Hands-On Introduction to Hacking: https://amzn.to/31GN7iX
 - The Hacker Playbook 3: https://amzn.to/34XkIY2
 - Hacking: The Art of Exploitation: https://amzn.to/2VchDyL
