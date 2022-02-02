@@ -20,6 +20,14 @@ I know how difficult it is to find valuable content on the Internet on your own.
 - [How to Be an Ethical Hacker in 2021](https://www.youtube.com/watch?v=mdsChhW056A&ab_channel=TheCyberMentor)
 - [Your 5 Year Path: Success in Infosec](https://www.youtube.com/watch?v=Uv-AfK7PkxU&ab_channel=BlackHillsInformationSecurity)
 - [5 Year Plan into InfoSec Part 2](https://www.youtube.com/watch?v=iB_xCLsgQZI&ab_channel=BlackHillsInformationSecurity)
+- [So, You Wanna Be a Pen Tester 3 Paths to Consider](https://www.youtube.com/watch?v=qFNi1hdKpnE&ab_channel=SANSOffensiveOperations)
+
+### Home Labs
+-[Building Your Own Super Duper Home Lab](https://www.youtube.com/watch?v=uzqwoufhwyk&ab_channel=SANSOffensiveOperations)
+
+### Imposer Syndrome
+-[Imposter Syndrome: I Don't Feel Like Who You Think I Am.](https://www.youtube.com/watch?v=aDDCl_VQx7k&ab_channel=BSidesDC)
+-[Defeating Imposture Syndrome in Cyber](https://youtu.be/umSUJSHrjZY?t=72)
 
 ## Here are cybersecurity courses I recommand
 
@@ -67,8 +75,8 @@ I know how difficult it is to find valuable content on the Internet on your own.
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 ### Books
-- Penetration Testing: A Hands-On Introduction to Hacking: https://amzn.to/31GN7iX
-- The Hacker Playbook 3: https://amzn.to/34XkIY2
+- [Penetration Testing: A Hands-On Introduction to Hacking](https://amzn.to/31GN7iX)
+- [The Hacker Playbook 3](https://amzn.to/34XkIY2)
 - Hacking: The Art of Exploitation: https://amzn.to/2VchDyL
 - The Web Application Hacker's Handbook: https://amzn.to/30Fj21S
 - Real-World Bug Hunting: A Field Guide to Web Hacking: https://amzn.to/2V9srOe
