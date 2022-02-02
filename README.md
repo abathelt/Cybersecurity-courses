@@ -23,11 +23,11 @@ I know how difficult it is to find valuable content on the Internet on your own.
 - [So, You Wanna Be a Pen Tester 3 Paths to Consider](https://www.youtube.com/watch?v=qFNi1hdKpnE&ab_channel=SANSOffensiveOperations)
 
 ### Home Labs
--[Building Your Own Super Duper Home Lab](https://www.youtube.com/watch?v=uzqwoufhwyk&ab_channel=SANSOffensiveOperations)
+- [Building Your Own Super Duper Home Lab](https://www.youtube.com/watch?v=uzqwoufhwyk&ab_channel=SANSOffensiveOperations)
 
 ### Imposer Syndrome
--[Imposter Syndrome: I Don't Feel Like Who You Think I Am.](https://www.youtube.com/watch?v=aDDCl_VQx7k&ab_channel=BSidesDC)
--[Defeating Imposture Syndrome in Cyber](https://youtu.be/umSUJSHrjZY?t=72)
+- [Imposter Syndrome: I Don't Feel Like Who You Think I Am.](https://www.youtube.com/watch?v=aDDCl_VQx7k&ab_channel=BSidesDC)
+- [Defeating Imposture Syndrome in Cyber](https://youtu.be/umSUJSHrjZY?t=72)
 
 ## Here are cybersecurity courses I recommand
 
