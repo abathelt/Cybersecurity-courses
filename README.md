@@ -86,13 +86,4 @@ I know how difficult it is to find valuable content on the Internet on your own.
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 ### Books
-- [Penetration Testing: A Hands-On Introduction to Hacking](https://amzn.to/31GN7iX)
-- [The Hacker Playbook 3](https://amzn.to/34XkIY2)
-- Hacking: The Art of Exploitation: https://amzn.to/2VchDyL
-- The Web Application Hacker's Handbook: https://amzn.to/30Fj21S
-- Real-World Bug Hunting: A Field Guide to Web Hacking: https://amzn.to/2V9srOe
-- Social Engineering: The Science of Human Hacking: https://amzn.to/31HAmVx
-- Linux Basics for Hackers: https://amzn.to/34WvcXP
-- Python Crash Course, 2nd Edition: https://amzn.to/30gINu0
-- Violent Python: https://amzn.to/2QoGoJn
-- Black Hat Python: https://amzn.to/2V9GpQk
+- [Amazon Book list](https://www.amazon.com/hz/wishlist/ls/265AUL3MD5XP/ref=nav_wishlist_lists_2)
