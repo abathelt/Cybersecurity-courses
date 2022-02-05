@@ -25,6 +25,17 @@ I know how difficult it is to find valuable content on the Internet on your own.
 ### Home Labs
 - [Building Your Own Super Duper Home Lab](https://www.youtube.com/watch?v=uzqwoufhwyk&ab_channel=SANSOffensiveOperations)
 
+### Online labs/CTFs
+- [Blue Team Labs](https://blueteamlabs.online/)
+- [Cyber Defenders](https://cyberdefenders.org/)
+- [CTF learn](https://ctflearn.com/)
+- [Hacker101](https://www.hacker101.com/)
+- [Try Hack me](https://tryhackme.com/)
+- [Hack the Box](https://www.hackthebox.eu/)
+- [VulnHub](https://www.vulnhub.com/)
+- [Immersive Labs](https://immersivelabs.online/signin)
+- [Pentest Lab](https://pentesterlab.com/)
+
 ### Imposer Syndrome
 - [Imposter Syndrome: I Don't Feel Like Who You Think I Am.](https://www.youtube.com/watch?v=aDDCl_VQx7k&ab_channel=BSidesDC)
 - [Defeating Imposture Syndrome in Cyber](https://youtu.be/umSUJSHrjZY?t=72)
