@@ -48,6 +48,7 @@ I know how difficult it is to find valuable content on the Internet on your own.
 #### Networking
 - [Professor Messer’s CompTIA N10-008 Network+ Course](https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course)
 - [Networking Essentials by Cisco](https://www.netacad.com/courses/networking/networking-essentials)
+- [Free CCNA 200-301 Complete Course](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
 
 #### Cybersecurity fundamentals
 - [Professor Messer’s SY0-601 CompTIA Security+ Course](https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/)
@@ -68,6 +69,7 @@ I know how difficult it is to find valuable content on the Internet on your own.
 - [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNana)
 - [Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana)
 - [Python Tutorial for Beginners](https://www.youtube.com/watch?v=t8pPdKYpowI&ab_channel=TechWorldwithNana)
+- [Python for Beginners - Full Course](https://www.youtube.com/watch?v=7utwZYKweho&ab_channel=TheCyberMentor)
 
 #### Hacke101 courses
 - [Web hacking](https://www.hacker101.com/playlists/web_hacking)
